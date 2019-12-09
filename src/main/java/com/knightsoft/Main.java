@@ -1,0 +1,17 @@
+package com.knightsoft;
+
+import burp.BurpExtender;
+import com.knightsoft.data.MatrixDB;
+import com.knightsoft.ui.UserTableModel;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class Main {
+
+    public static  void main(String[] args){
+
+    }
+}
